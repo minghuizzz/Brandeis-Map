@@ -1,0 +1,151 @@
+J Loop Road At The Admissions Building
+L24 Shapiro Admissions Center
+G Ridgewood Quad
+L25 Ridgewood Residence Hall A
+L27 Ridgewood Residence Hall C
+L26 Ridgewood Residence Hall B
+E Ziv Quad
+L30 Ziv Residence Hall A
+L31 Ziv Residence Hall B
+L32 Mazer Residence Hall
+L29 Ziv Residence Hall D
+L33 Epstein Building
+F Epstein Entrance
+@ T-Lot
+C Intersection Turner St. & South St.
+L35 567 South Street Apartments
+L36 May, Lewis, Coffman, and Cohen Residence Halls
+CCC Lower Left Corner Of Map
+L34 60 Turner Street
+L4 Spingold Theater Center
+D Between Fine Arts and Theater
+L3 Goldman-Schwartz Fine Arts
+L2 IBS - Lemberg Academic Center
+A IBS Lemberg Academic Center Front Entrance
+~ Lower Theater Lot
+B Start Lower Theater Lot Rear Access Road
+L1 IBS - Sachar International Center
+AAA Upper Left Corner of Map
+L5 Pollack Fine Arts
+L6 The Rose Art Museum
+! Theater Lot
+L28 Village Residence Hall
+H West Intersection South St. & Old South St.
+K Loop Road At The Administration Building
+L23 Slosberg Music Center
+< Admissions Lot
+> Slodberg Lot
+I Loop Road At The Theater
+L7 Faculty Center
+L8 Faculty Lodge
+L17 Shapiro Campus Center
+N Shapiro And Administration Draw Entrances
+L21 Bernstein-Marcus
+L13 Sherman Hall / Hassenfeld Conference Center
+L16 Rosenthal Residence Hall South
+L15 Rosenthal Residence Hall East
+L14 Rosenthal Residence Hall North
+U3 Bethlehem Chapel
+U1 Berlin Chapel
+P Loop Road At The Chapels
+U2 Harlan Chapel
+Q Rosenthal Quad
+L18 Fellows Garden
+R Administration Side Entrance
+L19 Gryzmish Center
+L20 Irving Presidential Enclave
+L22 Draw Entrance
+L East Intersection South St. & Old South St.
+L40 The Rabb School
+O Loop Road At Below The Science Complex
+U26 Feldberg Communicatins Center
+U25 Volen National Center For Complex Systems
+U27 Abelson-Bass-Yalem
+U30 Edison-Lecks Science Building
+U31 Shapiro Science Center
+U29 Gerstenzang Science Library
+U28 Bassine Science Building
+U24 Goldsmith Building
+T Between Sciences and Library
+U23 Pearlman Hall
+U Between Social Sciences And Library
+U37 Schwartz Hall
+U38 Brown Social Science Center
+U39 Lemberg Hall And Children's Center
+7 Usen Draw Entrance
+U40 Usen Castle
+S Top Of Usen Steps
+= Science Lot
+U47 Stoneman Infirmary And Public Safety
+W Loop Road At The Health Center
+X South St. At The Base Of Health Center Steps
+A3 Linsey Sports Center And Pool
+? Athletic Lower Lot
++ Athletic Back Lot
+A4 Foster Residence Quad
+A2 Shapiro Athletic Center
+A2e Shapiro Athletic Center Entrance
+A1s Squire Bridge South Entrance
+Y Athletics Front Entrance
+A1u Under Squire Bridge
+A7 Marcus Field
+^ Gordon Bleachers
+A8 Gordon Field
+& Athletic Lot
+A1 Squire Bridge
+A1n Squire Bridge North Entrance
+V Loop Road At The Top Of Squire Bridge Steps
+U36 Foster Bio-Medical Research Center
+U35 Kosow-Wolfson-Rosensweig
+* Shapiro Visitor Lot
+U34 Rosenstiel Basic Medical Sciences Research Center
+A5 Gosman Sports and Convocation Center
+Z Athletics Driveway Lower Corner
+A6 Rieger Tennis Courts
+DDD Lower Right Corner Of Map
+U46 Landsman Research Facility
+U45 Golding Health Center
+U48 Mailman House
+; Plant Lot
+% East Quad Lower Lot
+8 Intersection Of Loop Road And Usen Bypass
+6 Loop Road At The Usdan Student Center West End
+U20 Usdan Student Center
+4 Loop Road At The Usdan Student Center
+: North Quad Lot
+U19 Kutz Hall
+5 Cable Residence Hall Street Entrance
+U18 Cable Residence Hall
+U17 Reitman Residence Hall
+BBB Upper Right Corner Of Map
+3 North Quad
+U16 Gordon Residence Hall
+U15 Scheffres Residence Hall
+2 Loop Road By Rabb Steps
+U14 Rabb Graduate Center
+0 Mandel Quad
+U10 Olin-Sang American Civilization Center
+U9 Mandel Center for the Humanities
+1 Loop Road By Mandel Center
+$ Tower Lot
+U8 Heller School Heller-Brown Building
+U5 Heller School Schneider Building
+U7 Abraham Shapiro Academic Complex
+U6 Mandel Center for Studies in Jewish Education
+U12 Lown School of Near Eastern and Judaic Studies
+U13 Shiffman Humanities Center
+U11 Golding Judaic Center
+9 Loop Road At The Top Of East Quad Steps
+U41 Intercultural Center, Swig Hall
+U44 Rubenstein-Pomerantz Residence Hall
+U43 Shapiro Residence Hall	
+U42 Hassenfeld-Krivoff Residence Hall
+U21 Goldfarb Library
+U22 Farber Library
+U4 Chapels Field
+L11 Renfield Residence Hall
+L12 Usen Residence Hall
+L9 Shapiro Residence Hal
+M Loop Road By The Hassenfeld Lot
+# Hassenfeld Lot
+L10 Deroy Residence Hall

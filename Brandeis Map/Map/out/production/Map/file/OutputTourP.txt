@@ -1,0 +1,300 @@
+J to L24
+L24 to G
+G to L25
+L25 back to G
+G to L27
+L27 back to G
+G to L26
+L26 to E
+E to L30
+L30 to L31
+L31 to L32
+L32 to L29
+L29 back to L32
+L32 to L33
+L33 to F
+F to @
+@ back to F
+F to C
+C to L35
+L35 to L36
+L36 to CCC
+CCC back to L36
+L36 back to L35
+L35 back to C
+C to L34
+L34 back to C
+C back to F
+F back to L33
+L33 back to L32
+L32 back to L31
+L31 back to L30
+L30 back to E
+E back to L26
+L26 to L4
+L4 to D
+D to L3
+L3 to L2
+L2 to A
+A to ~
+~ to B
+B back to ~
+~ back to A
+A back to L2
+L2 to L1
+L1 to AAA
+AAA back to L1
+L1 back to L2
+L2 back to L3
+L3 back to D
+D to L5
+L5 to L6
+L6 back to L5
+L5 back to D
+D back to L4
+L4 to !
+! back to L4
+L4 back to L26
+L26 back to G
+G to L28
+L28 to H
+H back to L28
+L28 back to G
+G back to L24
+L24 back to J
+J to K
+K to L23
+L23 to <
+< back to L23
+L23 to >
+> back to L23
+L23 back to K
+K back to J
+J to I
+I to L7
+L7 to L8
+L8 to L17
+L17 to N
+N to L21
+L21 back to N
+N back to L17
+L17 to L13
+L13 to L16
+L16 to L15
+L15 to L14
+L14 to U3
+U3 to U1
+U1 to P
+P to U2
+U2 back to P
+P back to U1
+U1 back to U3
+U3 back to L14
+L14 back to L15
+L15 to Q
+Q to L18
+L18 back to Q
+Q to R
+R to L19
+L19 to L20
+L20 to L22
+L22 to L
+L to L40
+L40 back to L
+L back to L22
+L22 to O
+O back to L22
+L22 back to L20
+L20 back to L19
+L19 back to R
+R back to Q
+Q to U26
+U26 to U25
+U25 to U27
+U27 to U30
+U30 to U31
+U31 back to U30
+U30 back to U27
+U27 to U29
+U29 to U28
+U28 back to U29
+U29 back to U27
+U27 back to U25
+U25 to U24
+U24 to T
+T to U23
+U23 to U
+U to U37
+U37 to U38
+U38 to U39
+U39 to 7
+7 to U40
+U40 back to 7
+7 to S
+S to =
+= to U47
+U47 to W
+W to X
+X to A3
+A3 to ?
+? to +
++ back to ?
+? to A4
+A4 back to ?
+? back to A3
+A3 to A2
+A2 to A2e
+A2e to A1s
+A1s to Y
+Y to A1u
+A1u back to Y
+Y to A7
+A7 to ^
+^ to A8
+A8 back to ^
+^ to &
+& back to ^
+^ back to A7
+A7 back to Y
+Y back to A1s
+A1s to A1
+A1 to A1n
+A1n to V
+V to U36
+U36 to U35
+U35 to *
+* to U34
+U34 back to *
+* back to U35
+U35 back to U36
+U36 back to V
+V back to A1n
+A1n back to A1
+A1 back to A1s
+A1s back to A2e
+A2e back to A2
+A2 to A5
+A5 to Z
+Z to A6
+A6 to DDD
+DDD back to A6
+A6 back to Z
+Z back to A5
+A5 back to A2
+A2 back to A3
+A3 back to X
+X to U46
+U46 to U45
+U45 back to U46
+U46 to U48
+U48 back to U46
+U46 back to X
+X to ;
+; back to X
+X back to W
+W to %
+% back to W
+W back to U47
+U47 back to =
+= back to S
+S back to 7
+7 to 8
+8 to 6
+6 to U20
+U20 to 4
+4 to :
+: to U19
+U19 to 5
+5 to U18
+U18 to U17
+U17 to BBB
+BBB back to U17
+U17 back to U18
+U18 back to 5
+5 to 3
+3 to U16
+U16 to U15
+U15 back to U16
+U16 back to 3
+3 back to 5
+5 back to U19
+U19 back to :
+: back to 4
+4 to 2
+2 to U14
+U14 to 0
+0 to U10
+U10 to U9
+U9 to 1
+1 to $
+$ to U8
+U8 to U5
+U5 to U7
+U7 back to U5
+U5 to U6
+U6 back to U5
+U5 back to U8
+U8 back to $
+$ back to 1
+1 back to U9
+U9 back to U10
+U10 back to 0
+0 to U12
+U12 to U13
+U13 back to U12
+U12 back to 0
+0 to U11
+U11 back to 0
+0 back to U14
+U14 back to 2
+2 back to 4
+4 back to U20
+U20 back to 6
+6 back to 8
+8 to 9
+9 to U41
+U41 to U44
+U44 to U43
+U43 back to U44
+U44 back to U41
+U41 to U42
+U42 back to U41
+U41 back to 9
+9 back to 8
+8 back to 7
+7 back to U39
+U39 back to U38
+U38 back to U37
+U37 back to U
+U to U21
+U21 back to U
+U back to U23
+U23 back to T
+T to U22
+U22 back to T
+T back to U24
+U24 back to U25
+U25 back to U26
+U26 back to Q
+Q back to L15
+L15 to U4
+U4 back to L15
+L15 back to L16
+L16 back to L13
+L13 to L11
+L11 to L12
+L12 back to L11
+L11 back to L13
+L13 to L9
+L9 to M
+M to #
+# back to M
+M to L10
+L10 back to M
+M back to L9
+L9 back to L13
+L13 back to L17
+L17 back to L8
+L8 back to L7
+L7 back to I
+I back to J
